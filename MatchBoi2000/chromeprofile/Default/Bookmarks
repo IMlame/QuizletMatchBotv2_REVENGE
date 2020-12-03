@@ -1,0 +1,69 @@
+{
+   "checksum": "979c4b96f0f2813975b1ccb07767cb5b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13245310629337998",
+            "guid": "72888302-52e2-4244-b604-a786dad56ff9",
+            "id": "5",
+            "name": "Watch Regular Show Online - Regular Show",
+            "type": "url",
+            "url": "https://www.thewatchcartoononline.tv/anime/regular-show"
+         }, {
+            "date_added": "13247438697586707",
+            "guid": "c75a7524-fb37-4ede-8828-d7d068bcbc1c",
+            "id": "6",
+            "name": "Brawlhalla - Twitch",
+            "type": "url",
+            "url": "https://www.twitch.tv/brawlhalla"
+         }, {
+            "date_added": "13250025157447645",
+            "guid": "025e09f4-6cfb-4b58-ae46-a4c370b19bbb",
+            "id": "10",
+            "name": "The AP Physics Collection - OpenStax",
+            "type": "url",
+            "url": "https://openstax.org/details/books/college-physics-ap-courses"
+         }, {
+            "date_added": "13250802825357571",
+            "guid": "476a2c01-cc4c-4d69-a035-6028748c5f70",
+            "id": "12",
+            "name": "One Flew Over the Cuckoo's Nest Notes.docx",
+            "type": "url",
+            "url": "https://bsd405-my.sharepoint.com/:w:/g/personal/s-lame_bsd405_org/EUMO103s9xRDu6JkGzdkJUcBiM4uBdxg_PVVfeLIBO-sOA?e=Frpzsv"
+         } ],
+         "date_added": "13248499915572749",
+         "date_modified": "13250802825357571",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13249636632719087",
+            "guid": "afcbf891-4316-4cbf-bf98-8039d0f33cb1",
+            "id": "8",
+            "name": "Coalition Apps - Application",
+            "type": "url",
+            "url": "https://www.mycoalition.org/app#/applications/AK1758598AY/submitted"
+         } ],
+         "date_added": "13248499915572756",
+         "date_modified": "13250025157447645",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13248499915572758",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CrABCo8BCIiBAhKIARJ2CAISOAoGCgJibRABEDMaEgkAIKQz87QFACEAIKQz87QFADIYChYIAhETU4lE87QFABgAIQAAAAAAAAAAEjgKBgoCYmQQABAzGhIJACCkM/O0BQAhACCkM/O0BQAyGAoWCAIRE1OJRPO0BQAYACEAAAAAAAAAACAASNjN2IbgLnD+8v6A4C4SACABKhhnSzlPQThhcFZkZkh0TnAwanJTWVh3PT0SrAIICBKnAgocS0xRWXpIU0dvelhvd2t1UEpHWXp3YTllMkNzPRKmAVo6QURxdEFaeGgwMjBEMUhaOTRTRmtPWE9ud0RnNk82NVBZWVJtUmVUNzVxWVRsYTFuMlIvRTI5TzlEcVZQQjZaOFhySlF6N3hxT0RWUmpUc1lqRzJnYXoyVDJUeGRnNnQ3a1hOcXNDOFBDNEhmaXp4djluS3dXWS8yV21JTzJzaytjK0hNRE1XcEp3MFRHUFJ1OENLNUp4SHp3NWFvSUxJT293PT0YACADKAMwr8fZpbL87AI4j8Gw2dsuQNTgsNnbLkocZldRZnBIRkxraWFXbDBnL3phZGl2QVlpR3BzPVoeIhxacXBYRzNCY0xaSHRsaUUvMDRoclN2Z0txbEk9ZUU0gLASqwEIARKmAQocL0VLTGFVVXlNZGJLRWsxQmEyVWlueURuZjdJPRJOWjpBRHF0QVp3R01YWnZUOHhQYUdRcFI4TllOUjhUNVJyNzkwZFB6ZE9EY0RDZkc2SVRkUHR4eEV0RHlRNFBiUmV0U1RTQTVqbDkwQnZOGAAgACgAMI6kkOGn2+wCOABAAEocVStHR0l0WkVEcFpzSVNsT1VhSVR1SUxkTW5JPVoAZQAAAAASrQIIDBKoAgocRXJxQWFsdGYweHpZMkVnRlN2NnZmeWxNQlhNPRKmAVo6QURxdEFaeGgwMjBEMUhaOTRTRmtPWE9ud0RnNk82NVBZWVJtUmVUNzVxWVRsYTFuMlIycWU0MloydDkzU05TMzNUNXFPTHlmajZhdmpIeFZVb3VsZUNRYk5LNDlhWk16cmxuc094VFRpZkovZTQ1YnB1ZlpYcjFqT2UyaUY3YzNxbTRWME5KcXFzVzU0QUhDMitiOXJiVUdxbTZuNHNXd0p3PT0YACACKAIwsYLz1qqe7QI4jqG7heAuQKehu4XgLkoca0tIVSt3NmNMRi9GTXpMa3o1Y3hkcnZScDFRPVofIh3dL2pXSzZyYWp5cmdLb0w4ZEpxQ00xaHJ0V20wPWXBy6XKEsMBCAISvgEKHHpEVkdycnRaTGRNKzRCVHliZytIQ09yV2d5bz0SZlo6QURxdEFaendKUnkvdTJaTlRlczRucXRzam14TlkzK2dyNEdHUnEyUUNoRGMrbDMrbjJOaFphc2t5b04rODAza3pRWktTZ0wyVnhITy9wVjk2d2UvdDVldTNKamFVWGVqWUE9PRgAIAAoADCOpJDhp9vsAjgAQABKHDV1c3kvY3BmcGkxRXRvQkhEZ1hJczBxYjRyQT1aAGUAAAAAEq0CCAoSqAIKHElybkdQK2FadVNaK3NvamJxNi9DMnFQeFh2UT0SpgFaOkFEcXRBWnhoMDIwRDFIWjk0U0ZrT1hPbndEZzZPNjVQWVlSbVJlVDc1cVlUbGExbjJWdkltVFg3SHVadHdOMGV4cm1PdDJJM2pJNnl0VlcvbEtIU3ZVMU00NmtFazBiaGwrSTRGRk1qRE50Z3IwOEl1NlN1bU83QTVWRWdjYVcvOG80NERWWGlyQnA0R1laWGZQaW8vTVlCaENvbkNBclF0dz09GAAgAygDMMaWx4HDiO0COMeW0pLdLkChwZCg3S5KHHRVcElGWWRlaEtPZkZBZi9BazB6ZmhONStLbz1aHyIdu09EeDV6bWFYaDdRWjBuUzl2bTkxVVVRV2phMD1luCCLhhKsAggFEqcCChwzN0FQcU15UmE2d0VIZzh4Wkd2Z3Z5cGFuaUE9EqYBWjpBRHF0QVp4aDAyMEQxSFo5NFNGa09YT253RGc2MWM3U2NaZGo3ZnFHcFVTVmJtbnprZEN5MFdtcVp0SXhDUHQxcFlrSWJzK3hyS1laUDBrTEtvOUpTN01OWFBrdVVjTFRoVHR4cEUwaE9RcDlBVi9vclRZMWRqQlJIYlBmL0RrMURrakxxazFlMzJ5c24xcjA2OGZrTUZFS3J3bzVyUEExNFE9PRgAIAIoAjDZ9t3hp9vsAjjam8rKyy5An6quu9cuShxDSDB6REs3T254ZnlvVE9HV0Q4SFVaOC8ydkU9Wh4iHGlLNFc3dW1VZFMwN1NvSU8vZUlLWkc0eGRzOD1l8wZ5gRKsAggGEqcCChxrdUhtWnVoajhnbys3cXA4VkJCa3lXcm1kZmc9EqYBWjpBRHF0QVp4aDAyMEQxSFo5NFNGa09YT253RGc2ZzB1bWNZU1ltUWNPRmFLQjVSODcraVlNVWQzYURBYy9uV3pEdno2OFMvbExnZktIbEJqMlk0ZHRLOFd2TGhrRjBhazZ1TTdtb0w1cVU4S0dNMkFNYmdWNEZuamdWbnhmNXduaFlNcXFuRDg2WHF1WTVGMWdVYkpOUjJBd2dJSjdwREVYblE9PRgAIAIoAjDZ9t3hp9vsAjjzmKnB0y5AgKuuu9cuShxIZW44RE9jY0I1czFRVlg4ZFR5dDZrM25oTjA9Wh4iHHZucnd6ZExUaFl5MVFuZnlYTlNyNk9wWkFGST1l44DKahLDAQgDEr4BChx5NVdFMjd1STZ2WC9EZUlTSEp6bmpNcXVXV3M9EmZaOkFEcXRBWnhGeWxrYllhaU5rdHVYL1VydmZWeGNGbSs3MkE1QUx1c1AySWxnTXFWaTJMWDVVVThHcmEvOTQyVWF4bmtRTWw0dkpjV2pEY2VUWExHaStwK1JPUGFSSXp2N0dRPT0YACAAKAAwjqSQ4afb7AI4AEAAShw3OWwrTFJFVXBpYUV2REQrRzQzY3BYU3R3QmM9WgBlAAAAABgBIOLg2IbgLg==",
+   "version": 1
+}
