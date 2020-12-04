@@ -13,5 +13,6 @@
 	<classpathentry kind="lib" path="lib/seleniumJars/guava-25.0-jre.jar"/>
 	<classpathentry kind="lib" path="lib/seleniumJars/okhttp-3.11.0.jar"/>
 	<classpathentry kind="lib" path="lib/seleniumJars/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="lib/jsonJars/json-20201115.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
