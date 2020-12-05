@@ -23,7 +23,10 @@ import org.openqa.selenium.chrome.ChromeOptions;
 
 public class MatchMain {
 	
-	final static String QUIZLET_LINK = "https://quizlet.com/524213828/";
+	final static String RAW_LINK = "https://quizlet.com/11619425/barrons-ap-literature-vocabulary-flash-cards/";
+	
+	//cut raw link down to https://quizlet.com/_______/
+	final static String QUIZLET_LINK = RAW_LINK.substring(0, RAW_LINK.substring(20, RAW_LINK.length()).indexOf("/") + 21);
 
 	final static int NUMBER_OF_BOXES = 12;
 
@@ -31,6 +34,7 @@ public class MatchMain {
 	
 	public static void main(String[] args) throws Exception {
 		
+		System.out.println(QUIZLET_LINK);
 
 		String quizletHtml = getHTML(QUIZLET_LINK + "vocabulario-para-la-escuela-virtual-flash-cards/");
 
